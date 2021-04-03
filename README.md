@@ -34,6 +34,9 @@
 [0.0.27]
 - 2021-02-09 [User] fix filter submenu
 
+[0.0.28]
+- 2021-04-03 [Doc] fix numbering issue
+
 ## Лицензия
 [AGPL-3.0](https://github.com/romannep/katejs-modules/blob/master/LICENSE)
 
