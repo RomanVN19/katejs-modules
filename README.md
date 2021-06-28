@@ -34,8 +34,9 @@
 [0.0.27]
 - 2021-02-09 [User] fix filter submenu
 
-[0.0.28]
+[0.0.29]
 - 2021-04-03 [Doc] fix numbering issue
+- 2021-06-28 [User] fix skipAuthorization flag
 
 ## Лицензия
 [AGPL-3.0](https://github.com/romannep/katejs-modules/blob/master/LICENSE)
