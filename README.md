@@ -38,6 +38,10 @@
 - 2021-04-03 [Doc] fix numbering issue
 - 2021-06-28 [User] fix skipAuthorization flag
 
+[0.0.29]
+- 2021-08-20 [Settings] fix settings icon
+
+
 ## Лицензия
 [AGPL-3.0](https://github.com/romannep/katejs-modules/blob/master/LICENSE)
 
